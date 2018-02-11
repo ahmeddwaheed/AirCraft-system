@@ -1,0 +1,28 @@
+[Using Search Links (Scenario 1 & 2).txt] 
+
+CASE1:
+======
+Try to type:
+1- General (Letter by letter)
+=============================
+Initial sample output:
+	Genetics						(with G, Ge, Gen, Gene)
+	Genes							(with G, Ge, Gen, Gene)
+	General Motors 					(with G, Ge, Gen, Gene, Gener, Genera, General)
+	General Dynamics And Mechanics	(with G, Ge, Gen, Gene, Gener, Genera, General)
+	General Electric 				(with G, Ge, Gen, Gene, Gener, Genera, General)
+	
+Final sample output:
+	General Motors
+	General Dynamics And Mechanics
+	General Electric
+	
+CASE2:
+======
+2- American
+
+CASE3:
+======
+3- Harry ..
+
+Continue as the same way..

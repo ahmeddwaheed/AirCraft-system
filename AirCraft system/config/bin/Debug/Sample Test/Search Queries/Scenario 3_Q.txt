@@ -1,0 +1,27 @@
+[Using Search Links (Scenario 3).txt]
+
+CASE1:
+======
+Try to type:
+1- Dark (Letter by letter)
+=============================
+Initial sample list output (shall be reduced by writing more letters to be more near to the desired output):
+	The Dark Knight						
+	Welcome to Dreadville III: Dark of Night							
+	Transformers: Dark of the Moon
+	
+Final sample list output if you write (Dark of the moon):
+	Transformers: Dark of the Moon
+	
+CASE2:
+======
+2- spiderMan
+==============
+Initial sample list output:
+	The amazing spiderMan
+	The amazing spiderMan 2
+	Daredevil vs. SpiderMan
+	
+Final sample output list (amazing spiderMan):
+	The amazing spiderMan
+	The amazing spiderMan 2
